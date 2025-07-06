@@ -16,10 +16,11 @@
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=kwon5an&show_icons=true&theme=tokyonight"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwon5an&layout=compact&theme=tokyonight"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=kwon5an&show_icons=true&theme=default"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwon5an&layout=compact&theme=default"
            /> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonhan2005)&link=https://solved.ac/kwonhan2005/" 
                   /></div> 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonhan2005)](https://solved.ac/kwonhan2005/)
     </div>   
 
 <!--
