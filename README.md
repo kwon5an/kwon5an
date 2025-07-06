@@ -1,5 +1,5 @@
 ![Kwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon5an&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon5an&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon5an&layout=compact&theme=tokyonight)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonhan2005)](https://solved.ac/kwonhan2005/)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@kwonhan/posts")
 
