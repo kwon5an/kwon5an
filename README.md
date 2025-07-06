@@ -1,6 +1,7 @@
-<center>
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0077DD&center=true&vCenter=true&multiline=true&height=100&lines=Welcom+to;Kwonhan's+Git)](https://git.io/typing-svg)
-</center>
+<div style="text-align: center;">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0077DD&center=true&vCenter=true&multiline=true&height=100&lines=Welcom+to;Kwonhan's+Git" alt="Typing SVG" /></a>
+</div>  
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
