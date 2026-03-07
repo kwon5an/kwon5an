@@ -1,8 +1,4 @@
 <div align= "center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=0077DD&center=true&vCenter=true&width=1200&height=100&lines=Welcom+to+Kwonhan's+Github" alt="Typing SVG" /></a>
-</div><br/>
-
-<div align= "center">
     <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ฅᨐฅ <br/> Tech Stacks </h4>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
