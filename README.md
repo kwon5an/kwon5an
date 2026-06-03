@@ -1,6 +1,6 @@
 <div align= "center">
     <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ฅᨐฅ <br/> Introduce </h4> 
-    포렌식과 시스템 해킹을 공부합니다
+    <p>포렌식과 포너블을 공부합니다 <br/> IoT에도 관심이 있습니다</p>
     
 </div><br/>
 
